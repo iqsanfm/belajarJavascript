@@ -1,0 +1,4 @@
+let biodata = ["Iqsan Faisal", "22", "Garut", "Nonton", "Teknik Komputer", "Karena saat kita membuat sesuatu dan hasilnya sesuai, itu menyenangkan", "CRUD,POST,API,BLOCKHAIN", "Pernah mengalami kesulitan", "Melihat dari informasi di website, banyak sekali pelajaran yang sangat bagus dan berguna di dunia kerja, dan prospek untuk masuk dunia kerja sangat menjanjikan.", "Saya mempunyai minat untuk belajar oleh karena itu saya memohon ingin menyalurkan keinginan saya dengan bootcamp pijar yang menjanjikan dalam dunia pekerjaan." ];
+for ( let i = 0; i < biodata.length; i++){
+console.log(biodata[i])
+}
